@@ -1,0 +1,13 @@
+Name of Quantlet :             Data_Analysis_R
+
+Published in :                 Statistical programming languages - Student Projects on ...
+
+Description :                  Description of the data using plots, summaries, graphs, etc
+
+Keywords :                     ttest, density, distribution, mean, graphs, 
+
+Author :                       Ammar Sahnoune
+
+Submitted :                    Sat, August 11 2018 by Ammar Sahnoune
+
+Datafile :                     Big5
